@@ -1,0 +1,301 @@
+.main{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items:center
+
+
+}
+img{
+    height:180px;
+    width: 80%;
+}
+.images1{
+    height:250px;
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    direction: rtl;
+    
+
+
+}
+.images2{
+    height:250px;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    direction: rtl;
+
+}
+p{
+    color: black;
+    margin-right: 40px;
+
+}
+a{
+    text-decoration:none;
+    direction: rtl;
+}
+.p11{
+    color: black;
+    margin-right: 55px;
+}
+.p10{
+    color: black;
+    margin-right: 25px;
+}
+.p11{
+    color: black;
+    margin-right: 55px;
+}
+.p9{
+    color: black;
+    margin-right: 45px;
+}
+.p8{
+    color: black;
+    margin-right: 20px;
+}
+.p7{
+    color: black;
+    margin-right: 10px;
+}
+.p6{
+    color: black;
+    margin-right: 55px;
+}
+.p5{
+    color: black;
+    margin-right: -5px;
+}
+.p4{
+    color: black;
+    margin-right: 70px;
+}
+.img1{
+    height:200px;
+    width:20%;
+    
+
+}
+.img2{
+    height:200px;
+    width:20%;
+   
+}
+.img3{
+    height:200px;
+    width:20%;
+    
+}
+.img4{
+    height:200px;
+    width:20%;
+    
+}
+.img5{
+    height:200px;
+    width:20%;
+   
+}
+.img6{
+    height:200px;
+    width:20%;
+  
+}
+.img7{
+    height:200px;
+    width:20%;
+   
+}
+.img8{
+    height:200px;
+    width:20%;
+   
+}
+.img9{
+    height:200px;
+    width:20%;
+   
+}
+.img10{
+    height:200px;
+    width:20%;
+    
+}
+.img11{
+    height:200px;
+    width:20%;
+    
+}
+
+
+
+@media screen and (max-width: 600px){
+    .main{
+        width: 100%;
+    }
+    .images1{
+        height:700px;
+        width: 110%;
+        display: flex;
+        flex-wrap:  wrap;
+        justify-content: space-around;
+        
+    }
+    .images2{
+        height:700px;
+        width: 110%;
+        display: flex;
+        flex-wrap:  wrap;
+        justify-content: space-around;
+        
+    }
+        
+    img{
+        width:98%;
+    }
+    .main{
+        height:900px;
+    }
+    .text{
+       
+        margin-top:120px;
+    }
+    .img1{
+        width: 20%;
+        height: 180px;
+        flex: 0 0 180px;
+     
+        
+        
+        
+        
+        
+    }
+    .img2{
+        width: 20%;
+        height: 150px;
+        flex: 0 0 180px;
+
+       
+       
+       
+       
+       
+    }
+    .img3{
+        width: 20%;
+        height: 150px;
+        flex: 0 0 180px;
+
+     
+        
+        
+        
+    }
+    .img4{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+        
+    }
+    .img5{
+        width: 20%;
+        height: 150px; 
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+        
+    }
+    .img6{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+    }
+    .img7{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+    }
+    .img8{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+    }
+    .img9{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+    }
+    .img10{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+    }
+    .img11{
+        width: 20%;
+        height: 150px;
+        margin: 10px;
+        flex: 0 0 180px;
+        margin-top: 90px;
+        
+    }
+    .p7{
+        margin-top:5px;
+        margin-left: 5px;
+    }
+    .p10{
+        margin-top: 5px;
+    }
+    .p11{
+        margin-top: 5px;
+    }
+    .p9{
+        margin-top: 5px;
+    }
+    .p8{
+        margin-top: 5px;
+    }
+    .p6{
+        margin-top: 5px;
+    }
+    .p5{
+        margin-top: 5px;
+    }
+    .p4{
+        margin-top: 5px;
+    }
+    .p3{
+        margin-top: 5px;
+    }
+    .p2{
+        margin-top: 5px;
+    }
+    .p1{
+        margin-top: 5px;
+    }
+
+}
